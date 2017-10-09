@@ -1,0 +1,176 @@
+[
+  {
+    "value": "Resume",
+    "synonyms": [
+      "Reprendre",
+	  "Reprendre la lecture",
+	  "Reprendre la chanson",
+	  "Reprendre la musique",
+	  "Reprendre le film",
+	  "Reprendre l'épisode",
+      "Commencer",
+	  "Commencer la lecture",
+      "Continuer",
+      "Démarrer la lecture",
+	  "Démarrer la chanson",
+	  "Démarrer la musique",
+	  "Démarrer le film",
+	  "Démarrer l'épisode",
+	  "Poursuivre la lecture",
+	  "Poursuivre le film",
+	  "Poursuivre l'épisode",
+	  "Reprise",
+	  "Reprend",
+	  "Reprend la lecture",
+	  "Reprend la chanson",
+	  "Reprend la musique",
+	  "Reprend le film",
+	  "Reprend l'épisode",
+      "Commence",
+	  "Commence la lecture",
+      "Continue",
+      "Démarre la lecture",
+	  "Démarre la chanson",
+	  "Démarre la musique",
+	  "Démarre le film",
+	  "Démarre le l'épisode",
+	  "Poursuis la lecture",
+	  "Poursuis le film",
+	  "Poursuis l'épisode",	  
+    ]
+  },
+  {
+    "value": "Pause",
+    "synonyms": [
+      "Pause",
+	  "Mets sur pause",
+	  "Fais pause",
+    ]
+  },
+  {
+    "value": "Stop",
+    "synonyms": [
+      "Arrêter la lecture",
+	  "Arrêter le film",
+	  "Arrêter l'épisode"
+	  "Stopper la lecture"
+	  "Arrêter la musique",
+	  "Arrête la lecture",
+	  "Arrête le film",
+	  "Arrête l'épisode",
+	  "Arrête la musique",
+	  "Arrêt de la musique",
+	  "Arrêt de la lecture",
+	  "Arrêt du film",
+	  "Arrêt de l'épisode"
+	  "Stoppe la lecture",	  
+      "Stop",      
+      "Fin de lecture",      
+    ]
+  },
+  {
+    "value": "Skip Forward",
+    "synonyms": [
+      "Passer au prochain chapitre",
+      "Morceau suivant",
+      "Chanson suivante",
+      "Prochain épisode",
+      "Prochaine piste",
+      "Passer la piste",
+      "Passer l'épisode",
+	  "Next",
+	  "Suivant",
+    ]
+  },
+  {
+    "value": "Skip Backward",
+    "synonyms": [
+      "Chapitre précédent",
+      "Episode précédent",      
+      "Chanson précédente",
+      "Morceau précédent",
+	  "Aller au Chapitre précédent",
+      "Aller à l'épisode précédent",      
+      "Revenir au Chapitre précédent",
+      "Revenir à l'épisode précédent",      
+	  "Revenir à la Chanson précédente",
+      "Revenir au Morceau précédent",
+	  "Passer au Chapitre précédent",
+      "Passer à l'épisode précédent",      
+	  "Passer à la Chanson précédente",
+      "Passer au Morceau précédent",
+    ]
+  },
+  {
+    "value": "Seek Forward",
+    "synonyms": [
+      "Avance rapide",
+      "Avance",
+      "Avance un peu",   
+	  "Avancer rapidement",
+      "Avancer",
+      "Avancer un peu",	  
+    ]
+  },
+  {
+    "value": "Seek Backward",
+    "synonyms": [
+      "Reviens en arrière",
+      "Recule",
+	  "Recule un peu",
+	  "Revenir en arrière",
+      "Reculer",
+	  "Reculer un peu",
+    ]
+  },
+  {
+    "value": "Jump To",
+    "synonyms": [
+      "Aller à",
+      "Chercher",
+      "Avancer jusqu'à",
+	  "Avancer à",	  
+      "Avance rapide jusqu'à",
+      "Reviens à",
+      "Reviens jusqu'à",	  
+    ]
+  },
+  {
+    "value": "set the volume",
+    "synonyms": [
+      "Mettre le volume",
+      "Ajuster le volume",
+      "Augmenter le volume",
+      "Baisser le volume",
+      "Mettre le son",
+      "Ajuster le son",
+      "Augmenter le son",
+      "Baisser le son",      
+      "Ajuste le volume",
+      "Augmente le volume",
+      "Baisse le volume",
+      "Mets le son",
+      "Ajuste le son",
+      "Augmente le son",
+      "Baisse le son",
+    ]
+  },
+  {
+    "value": "subtitles on",
+    "synonyms": [
+      "Activer les sous titres",
+	  "Active les sous titres",
+      "Mettre les sous titres",
+	  "Mets les sous titres",
+    ]
+  },
+  {
+    "value": "subtitles off",
+    "synonyms": [
+      "Désactiver les sous titres",
+	  "Désactive les sous titres",
+      "Enlever les sous titres",
+	  "Enlève les sous titres",
+	]
+  }
+]
